@@ -1,1 +1,1 @@
-# corPlusErrorsClass
+# corePlusErrorsClass
